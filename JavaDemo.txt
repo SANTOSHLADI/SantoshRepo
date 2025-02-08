@@ -1,1 +1,9 @@
 this is simple note pad file
+
+
+git branch lpu-branch
+
+to Switch in to lpu-branch
+git checkout lpu-branch
+
+thia ia a second line
